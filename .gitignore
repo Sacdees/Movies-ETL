@@ -133,3 +133,5 @@ ratings.csv
 ratings.csv
 ratings.csv
 movies_metadata.csv
+config.py
+.gitignore
